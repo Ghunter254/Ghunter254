@@ -1,4 +1,4 @@
-# 👋 Hi, I'm OTSYULA (Ghunter254)
+# 👋 Hi, I'm OTSYULA (Ghost)
 
 **Backend Engineer | Software Developer | Student — Strathmore University (BSEEE)**  
 Based in Nairobi, Kenya 🌍
@@ -10,7 +10,7 @@ Based in Nairobi, Kenya 🌍
 I'm a passionate software developer skilled in building robust backend systems and full-stack applications. As a BSEEE student at Strathmore University, I blend my engineering background with a love for code—always eager to learn and solve real-world problems through tech.
 
 ### 🌐 Core Skills
-- **Languages:** Python, JavaScript (React, Node.js, Express), Java, C++, Dart
+- **Languages:** Python, JavaScript (React, Node.js, Express), Java, C++, Dart, C#
 - **Frameworks & Tools:** Flutter, Kotlin, REST APIs, Mobile & Web Development
 - **Interests:** Blockchain, EdTech, FinTech, Open Source
 
