@@ -61,7 +61,7 @@ Git • Arduino • Embedded C++ • Postman
 
 ### [MAK3.top](https://mak3.top)
 **Founder & Lead Engineer**
-A hardware-focused startup streamlining digital design and physical fabrication. I architected the **Custom Fabrication Pipeline**—a Go-based system that processes engineering assets (STL/STEP) and manages granular manufacturing manifests for industrial 3D production.
+A hardware-focused startup streamlining digital design and physical fabrication. 
 
 ### [Campus Link](https://github.com/UniVerse-254/student-life)
 **Lead Backend Engineer**
