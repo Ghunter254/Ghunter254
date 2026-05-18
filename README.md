@@ -63,7 +63,7 @@ Git • Arduino • Embedded C++ • Postman
 **Founder & Lead Engineer**
 A hardware-focused startup streamlining digital design and physical fabrication. 
 
-### [Campus Link](https://github.com/UniVerse-254/student-life)
+### [Campus Link](https://campuslink.online)
 **Lead Backend Engineer**
 A microservices-driven platform for campus service aggregation. Architected with **Node.js and Appwrite**, focusing on real-time data synchronization, low-latency resource booking, and secure role-based access.
 
